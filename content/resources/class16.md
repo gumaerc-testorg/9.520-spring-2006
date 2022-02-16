@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource provides information on topics such as mappings and hypothesis
   space, uniform convergence, consistency, consistency for RKHS and Ivanov regularization.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-520-statistical-learning-theory-and-applications-spring-2006/e28404897a9570e9c2e35de0a42bd57a_class16.pdf
+file: /media/courses/9-520-statistical-learning-theory-and-applications-spring-2006/e28404897a9570e9c2e35de0a42bd57a_class16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: class16.pdf
 uid: e2840489-7a95-70e9-c2e3-5de0a42bd57a

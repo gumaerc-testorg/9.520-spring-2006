@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains a description of the session on manifold regularization
   and a list of suggested raedings.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-520-statistical-learning-theory-and-applications-spring-2006/c34a811f77787f3d0577926dac5aed60_lec6.pdf
+file: /media/courses/9-520-statistical-learning-theory-and-applications-spring-2006/c34a811f77787f3d0577926dac5aed60_lec6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec6.pdf
 uid: c34a811f-7778-7f3d-0577-926dac5aed60
