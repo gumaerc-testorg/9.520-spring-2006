@@ -5,6 +5,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/f6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: class08.pdf
 uid: f6d62493-2f37-3fcc-370c-6e0cdb4ba656
 ---
 This resource provides information on the topic of multiclass classifiaction.
-

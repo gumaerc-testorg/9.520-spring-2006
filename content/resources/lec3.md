@@ -6,6 +6,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/19
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec3.pdf
 uid: 19f7ddde-5da4-646a-ecca-b68fe413a224
 ---
 This resource provides a description of the session on reproducing kernel hilbert spaces, and a list of suggested readings.
-

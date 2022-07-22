@@ -6,6 +6,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/8f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: class17.pdf
 uid: 8f336862-32f1-125e-8e9f-08587ebeac7e
 ---
 This resource provides information on topics such as measuring the complexity of function spaces, definition of VC dimension and scale sensitive versions.
-

@@ -7,6 +7,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/00
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: class03.pdf
 uid: 00c2df0f-1aef-9710-4899-611e8879b9f4
 ---
 This resource provides information on the topic of reproducing kernel hilbert spaces(RKHS) and deriving  the general solution of tikhonov regularization in RKHS.
-

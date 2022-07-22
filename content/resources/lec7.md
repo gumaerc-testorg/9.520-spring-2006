@@ -6,6 +6,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/6a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec7.pdf
 uid: 6a633697-0c00-61d7-bf7d-9abace4d285a
 ---
 This resource contains adescription of the session on unsupervised learning techniques and a list of suggested readings.
-

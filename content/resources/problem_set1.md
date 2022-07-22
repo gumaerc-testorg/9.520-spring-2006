@@ -6,6 +6,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/5e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: problem_set1.pdf
 uid: 5e1ecacf-1bbe-db6a-5cfa-c92f7483bd44
 ---
 This resource contains problems on kernel hilbert spaces, mercer?s theorem, regularized least-squares classification, and SVM classification.
-

@@ -6,6 +6,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/13
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec17.pdf
 uid: 137518f9-783b-98d8-6346-7a917f9c85e8
 ---
 This resource provides a description of the session and a list of suggested redaings.
-

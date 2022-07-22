@@ -6,6 +6,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/b8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec18.pdf
 uid: b8f7ea8e-10b4-4d19-22a8-a80ddc19939a
 ---
 This resource provides a list of supplementary readings for the session on neuroscience.
-

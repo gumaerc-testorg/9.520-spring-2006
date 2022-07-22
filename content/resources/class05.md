@@ -7,6 +7,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/c1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: class05.pdf
 uid: c14e22ec-9ca9-3ea5-f778-1d3d5f91f286
 ---
 This resource provides information on topics such as regularization derivation of SVMs, geometric derivation of SVMs, optimality, duality and large scale SVMs, and a comparison of SVMs with RLSC.
-

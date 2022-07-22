@@ -6,6 +6,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/08
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: class22.pdf
 uid: 0821974f-aaa4-096b-44f2-e3699c893d7a
 ---
 This resource provides information on topics such as active learning motivation, query learning and selective sampling.
-

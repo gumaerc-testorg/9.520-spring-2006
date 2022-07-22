@@ -6,6 +6,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/9c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: projects2002.pdf
 uid: 9ccf39be-2766-75c8-e91c-7d7db568583b
 ---
 For the final project, students select from one of the topics suggested in this handout, and solve the problem that is described.
-

@@ -6,6 +6,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/ab
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: class01.pdf
 uid: ab9c0fb6-9884-a0a8-ac33-4033ebaf817c
 ---
 This resource provides information on the topic of learning as associated with other topics such as brains and machines, and math, engineering, neuroscience.
-

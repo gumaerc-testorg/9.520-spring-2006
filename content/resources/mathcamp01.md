@@ -7,6 +7,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/e9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: mathcamp01.pdf
 uid: e909d192-1d92-95d8-24b6-24b95b517e8e
 ---
 This resource provides information on topics such as function spaces, metric spaces, dense subsets, linear spaces, linear functionals, euclidean spaces, hilbert spaces, riesz representation theorem and lagrange multipliers.
-

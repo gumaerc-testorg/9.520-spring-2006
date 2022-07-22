@@ -6,6 +6,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/1e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec14.pdf
 uid: 1e5a83ae-5a28-83ab-3313-086095974612
 ---
 This resource provides a description of the lecture on generalization bounds,and algorithmic stability and also provides a list of suggested readings.
-

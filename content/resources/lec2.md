@@ -6,6 +6,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/92
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec2.pdf
 uid: 92ce8108-ac80-376f-6fc8-4cc653ac8dd3
 ---
 This resource contains a description of the session on the learning problem in perspective and a list of suggested readings.
-

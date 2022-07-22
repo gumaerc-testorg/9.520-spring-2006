@@ -6,6 +6,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/c3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec4.pdf
 uid: c3a7556e-bfdf-2fee-f27f-ba83f2ed56f3
 ---
 This resource contains a description of the session on regression and least-squares classification, and a list of suggested readings.
-

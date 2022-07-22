@@ -6,6 +6,7 @@ file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/c6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: problem_set2.pdf
 uid: c686c1e2-b2a0-5590-ef08-61bddd524ef8
 ---
 This resource contains problems on topics such as RBF interpolation, radial basis functions expansion, and VC dimension.
-
