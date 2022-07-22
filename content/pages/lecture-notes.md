@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the lecture files as per the topics covered in
+  the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 8da084b8-16c9-147f-2c24-36fb7353719e
 ---
@@ -33,10 +38,10 @@ SLIDES
 The Course at a Glance
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec1))
+({{% resource_link 739dc964-e46b-6ede-1db3-8b243d842d1e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 8.10 MB]({{< baseurl >}}/resources/class01))
+({{% resource_link ab9c0fb6-9884-a0a8-ac33-4033ebaf817c "PDF - 8.10 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,10 +53,10 @@ The Course at a Glance
 The Learning Problem in Perspective
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec2))
+({{% resource_link 92ce8108-ac80-376f-6fc8-4cc653ac8dd3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class02))
+({{% resource_link 6e5d84a7-450b-4952-bf05-27ab9b0667b7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,10 +68,10 @@ The Learning Problem in Perspective
 Reproducing Kernel Hilbert Spaces
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec3))
+({{% resource_link 19f7ddde-5da4-646a-ecca-b68fe413a224 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class03))
+({{% resource_link 00c2df0f-1aef-9710-4899-611e8879b9f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,10 +83,10 @@ Reproducing Kernel Hilbert Spaces
 Regression and Least-Squares Classification
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec4))
+({{% resource_link c3a7556e-bfdf-2fee-f27f-ba83f2ed56f3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class04))
+({{% resource_link 9444573e-2d90-2860-a303-9aa9e0c5e62f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,10 +98,10 @@ Regression and Least-Squares Classification
 Support Vector Machines for Classification
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec5))
+({{% resource_link 09aee822-fa23-253b-55a0-12ffd6ff756f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class05))
+({{% resource_link c14e22ec-9ca9-3ea5-f778-1d3d5f91f286 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,10 +113,10 @@ Support Vector Machines for Classification
 Manifold Regularization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec6))
+({{% resource_link c34a811f-7778-7f3d-0577-926dac5aed60 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class06))
+({{% resource_link ac2ecaa3-f10f-d43f-8f52-1027d01a6e5f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,10 +128,10 @@ Manifold Regularization
 Unsupervised Learning Techniques
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec7))
+({{% resource_link 6a633697-0c00-61d7-bf7d-9abace4d285a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class07))
+({{% resource_link 5c60bd62-c9ca-6f13-ada6-a4634cf8dd90 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,10 +143,10 @@ Unsupervised Learning Techniques
 Multiclass
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec8))
+({{% resource_link 0ccda1bc-88bd-5c79-25ec-738c418dfe59 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class08))
+({{% resource_link f6d62493-2f37-3fcc-370c-6e0cdb4ba656 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,10 +158,10 @@ Multiclass
 Ranking
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec9))
+({{% resource_link 76e68a68-8d5b-ea28-573e-4d0870e7d4b9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/class09))
+({{% resource_link 6353dd4d-4174-ef85-ecb8-7f3e0b3e4448 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,10 +173,10 @@ Ranking
 Boosting and Bagging
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec10))
+({{% resource_link c5ff1772-d919-c1c2-bdb8-fa729bd1232e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class10))
+({{% resource_link 7ea47308-d1d0-570f-e37b-8f078f73ab96 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,10 +209,10 @@ Object Detection
 Online Learning
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec12))
+({{% resource_link e7e2eda2-1841-f293-f8e3-4ab7e388bee6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class12))
+({{% resource_link badc38aa-cb86-dd05-637a-a767212b6e72 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,10 +251,10 @@ Introduction to Stability
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec14))
+({{% resource_link 1e5a83ae-5a28-83ab-3313-086095974612 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class14))
+({{% resource_link 9a5f8712-3d8e-3653-1b59-59b031920fa8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,10 +266,10 @@ Introduction to Stability
 Stability of Tikhonov Regularization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec15))
+({{% resource_link 8e87c76b-9706-9518-1311-5aeb741557cc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class15))
+({{% resource_link c1de7af9-76f0-1e95-20f8-7b66e1fcd328 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -276,10 +281,10 @@ Stability of Tikhonov Regularization
 Uniform Convergence Over Function Classes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec16))
+({{% resource_link 1ba5ef15-4186-5a99-d647-d6bed76117cd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class16))
+({{% resource_link e2840489-7a95-70e9-c2e3-5de0a42bd57a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,10 +302,10 @@ VC-dimension
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec17))
+({{% resource_link 137518f9-783b-98d8-6346-7a917f9c85e8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class17))
+({{% resource_link 8f336862-32f1-125e-8e9f-08587ebeac7e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -312,10 +317,10 @@ VC-dimension
 Neuroscience
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec18))
+({{% resource_link b8f7ea8e-10b4-4d19-22a8-a80ddc19939a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5 MB]({{< baseurl >}}/resources/class18))
+({{% resource_link fa78f1e5-0b74-04ef-9276-8ec1845f0a2e "PDF - 2.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -381,7 +386,7 @@ Active Learning
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class22))
+({{% resource_link 0821974f-aaa4-096b-44f2-e3699c893d7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -456,7 +461,7 @@ Math Camp 1: Functional Analysis
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mathcamp02))
+({{% resource_link f195bbc7-8272-6fc4-5805-86a67d4fe69c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -471,7 +476,7 @@ Math Camp 2: Probability Theory
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mathcamp01))
+({{% resource_link e909d192-1d92-95d8-24b6-24b95b517e8e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
