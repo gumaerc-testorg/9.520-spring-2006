@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information some methods for unsupervised learning
   such as gaussian mixtures, K-means, ISOMAP, HLLE, laplacian eigenmaps.
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/5c60bd62c9ca6f13ada6a4634cf8dd90_class07.pdf
+file_size: 171918
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

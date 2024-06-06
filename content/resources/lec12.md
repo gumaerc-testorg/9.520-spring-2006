@@ -3,6 +3,7 @@ content_type: resource
 description: this resource provides a description of the session on online learning
   and gives a list of suggested readings for it.
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/e7e2eda21841f293f8e34ab7e388bee6_lec12.pdf
+file_size: 22357
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

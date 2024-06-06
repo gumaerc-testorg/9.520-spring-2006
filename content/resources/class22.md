@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information on topics such as active learning
   motivation, query learning and selective sampling.
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/0821974faaa4096b44f2e3699c893d7a_class22.pdf
+file_size: 347266
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

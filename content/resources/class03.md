@@ -4,6 +4,7 @@ description: This resource provides information on the topic of reproducing kern
   hilbert spaces(RKHS) and deriving  the general solution of tikhonov regularization
   in RKHS.
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/00c2df0f1aef97104899611e8879b9f4_class03.pdf
+file_size: 153950
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
