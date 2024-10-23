@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems on kernel hilbert spaces, mercer?s theorem,
   regularized least-squares classification, and SVM classification.
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/5e1ecacf1bbedb6a5cfac92f7483bd44_problem_set1.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/5e1ecacf1bbedb6a5cfac92f7483bd44_problem_set1.pdf
 file_size: 218436
 file_type: application/pdf
 learning_resource_types:
