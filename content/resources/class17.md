@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on topics such as measuring the complexity
   of function spaces, definition of VC dimension and scale sensitive versions.
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/8f33686232f1125e8e9f08587ebeac7e_class17.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/8f33686232f1125e8e9f08587ebeac7e_class17.pdf
 file_size: 115837
 file_type: application/pdf
 learning_resource_types:
