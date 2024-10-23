@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information on topics such as bagging and sub-sampling
   methods, bias-variance and stability for bagging, boosting and correlations of machines,
   and gradient descent view of boosting.
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/7ea47308d1d0570fe37b8f078f73ab96_class10.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/7ea47308d1d0570fe37b8f078f73ab96_class10.pdf
 file_size: 131300
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a description of the session on support vector
   machines for classification and a list of suggested readings.
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/09aee822fa23253b55a012ffd6ff756f_lec5.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/09aee822fa23253b55a012ffd6ff756f_lec5.pdf
 file_size: 23088
 file_type: application/pdf
 learning_resource_types:
