@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information on topics such as riemannian manifolds,
   manifold laplacians, graph laplacians and introduces a new class of algorithms based
   on manifold regularization(LapRLS, LapSVM).
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/ac2ecaa3f10fd43f8f521027d01a6e5f_class06.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/ac2ecaa3f10fd43f8f521027d01a6e5f_class06.pdf
 file_size: 196386
 file_type: application/pdf
 learning_resource_types:
