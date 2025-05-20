@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource conatins a description of the course.
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/739dc964e46b6ede1db38b243d842d1e_lec1.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/739dc964e46b6ede1db38b243d842d1e_lec1.pdf
 file_size: 13145
 file_type: application/pdf
 learning_resource_types:

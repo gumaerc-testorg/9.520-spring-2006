@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on topics such as generalization Bounds,
   stability, and generalization bounds using stability.
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/9a5f87123d8e36531b5959b031920fa8_class14.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/9a5f87123d8e36531b5959b031920fa8_class14.pdf
 file_size: 156974
 file_type: application/pdf
 learning_resource_types:

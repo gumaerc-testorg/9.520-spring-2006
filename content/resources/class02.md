@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information on topics such as learning as function
   approximation, empirical risk minimization, generalization and well-posedness, regularization
   and an appendix on sample and approximation error.
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/6e5d84a7450b4952bf0527ab9b0667b7_class02.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/6e5d84a7450b4952bf0527ab9b0667b7_class02.pdf
 file_size: 168239
 file_type: application/pdf
 learning_resource_types:

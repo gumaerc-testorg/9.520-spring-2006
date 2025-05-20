@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides a description of the session and a list of suggested
   redaings.
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/137518f9783b98d863467a917f9c85e8_lec17.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/137518f9783b98d863467a917f9c85e8_lec17.pdf
 file_size: 18278
 file_type: application/pdf
 learning_resource_types:

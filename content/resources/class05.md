@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information on topics such as regularization derivation
   of SVMs, geometric derivation of SVMs, optimality, duality and large scale SVMs,
   and a comparison of SVMs with RLSC.
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/c14e22ec9ca93ea5f7781d3d5f91f286_class05.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/c14e22ec9ca93ea5f7781d3d5f91f286_class05.pdf
 file_size: 164086
 file_type: application/pdf
 learning_resource_types:

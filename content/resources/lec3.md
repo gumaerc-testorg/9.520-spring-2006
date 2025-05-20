@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides a description of the session on reproducing kernel
   hilbert spaces, and a list of suggested readings.
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/19f7ddde5da4646aeccab68fe413a224_lec3.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/19f7ddde5da4646aeccab68fe413a224_lec3.pdf
 file_size: 24648
 file_type: application/pdf
 learning_resource_types:

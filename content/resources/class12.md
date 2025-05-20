@@ -4,7 +4,7 @@ description: This resource provides information on topics such as online learnin
   online version of the RLS algorithm, convergence results of the classical perceptron
   algorithm, and relationship between online learning and the theory of learning in
   games.
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/badc38aacb86dd05637aa767212b6e72_class12.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/badc38aacb86dd05637aa767212b6e72_class12.pdf
 file_size: 166958
 file_type: application/pdf
 learning_resource_types:
