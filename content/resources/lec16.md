@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides a description of the session on empirical risk
   minimization with uniform convergence and gives a list of suggested readings.
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/1ba5ef1541865a99d647d6bed76117cd_lec16.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/1ba5ef1541865a99d647d6bed76117cd_lec16.pdf
 file_size: 18489
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a description of the session on regression and
   least-squares classification, and a list of suggested readings.
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/c3a7556ebfdf2feef27fba83f2ed56f3_lec4.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/c3a7556ebfdf2feef27fba83f2ed56f3_lec4.pdf
 file_size: 22779
 file_type: application/pdf
 learning_resource_types:

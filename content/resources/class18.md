@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on topics such as object recognition
   by humans, ERP study, neuron basics and the visual system.
-file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/fa78f1e50b7404ef92768ec1845f0a2e_class18.pdf
+file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/fa78f1e50b7404ef92768ec1845f0a2e_class18.pdf
 file_size: 2632402
 file_type: application/pdf
 learning_resource_types:
