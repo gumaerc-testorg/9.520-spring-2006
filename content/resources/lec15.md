@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides a description of the session on tikhonov regularization
   and a list of suggested readings.
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/8e87c76b9706951813115aeb741557cc_lec15.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/8e87c76b9706951813115aeb741557cc_lec15.pdf
 file_size: 22208
 file_type: application/pdf
 learning_resource_types:

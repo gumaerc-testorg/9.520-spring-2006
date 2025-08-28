@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains adescription of the session on unsupervised learning
   techniques and a list of suggested readings.
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/6a6336970c0061d7bf7d9abace4d285a_lec7.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/6a6336970c0061d7bf7d9abace4d285a_lec7.pdf
 file_size: 23532
 file_type: application/pdf
 learning_resource_types:
