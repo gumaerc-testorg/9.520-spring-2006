@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource provides information on the topic of regularized least
   squares. their computation, large data sets: subset of regressors, and computation
   of linear RLS.'
-file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/9444573e2d902860a3039aa9e0c5e62f_class04.pdf
+file: /ol-ocw-studio-app/courses/9-520-statistical-learning-theory-and-applications-spring-2006/9444573e2d902860a3039aa9e0c5e62f_class04.pdf
 file_size: 119621
 file_type: application/pdf
 learning_resource_types:
