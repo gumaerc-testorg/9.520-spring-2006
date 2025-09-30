@@ -10,11 +10,11 @@ uid: a88c4986-be97-bea7-1c68-64759f85ca96
 
 There is no textbook for this course. All the required information will be presented in the slides associated with each class. The books/papers listed below are useful general reference reading, especially from the theoretical viewpoint. A list of suggested readings is also provided for each class separately.
 
-Boucheron, S., O. Bousquet, and G. Lugosi. "Theory of Classification: A Survey of Recent Advances." _ESAIM: Probability and Statistics_ 9 (2005): 323-375. ([PDF](http://www.econ.upf.edu/~lugosi/esaimsurvey.pdf))
+Boucheron, S., O. Bousquet, and G. Lugosi. "Theory of Classification: A Survey of Recent Advances." _ESAIM: Probability and Statistics_ 9 (2005): 323-375. ({{% resource_link "952ffe5b-893f-4a7f-be81-facfc1fb3db6" "PDF" %}})
 
-———. "Introduction to Statistical Learning Theory." In _Advanced Lectures on Machine Learning_. Lecture Notes in Artificial Intelligence 3176. Edited by O. Bousquet, U. Von Luxburg, and G. Ratsch. Heidelberg, Germany: Springer, 2004, pp. 169-207. ([PDF](https://link.springer.com/chapter/10.1007/978-3-540-28650-9_8))
+———. "Introduction to Statistical Learning Theory." In _Advanced Lectures on Machine Learning_. Lecture Notes in Artificial Intelligence 3176. Edited by O. Bousquet, U. Von Luxburg, and G. Ratsch. Heidelberg, Germany: Springer, 2004, pp. 169-207. ({{% resource_link "0b3769df-6867-4b62-bfdd-d79a397fd1a4" "PDF" %}})
 
-Bousquet, O. "New Approaches to Statistical Learning Theory." _Annals of the Institute of Statistical Mathematics_ 55, no. 2 (2003): 371-389. ([PS](https://link.springer.com/article/10.1007/BF02530506))
+Bousquet, O. "New Approaches to Statistical Learning Theory." _Annals of the Institute of Statistical Mathematics_ 55, no. 2 (2003): 371-389. ({{% resource_link "e004d136-502b-44a9-9a15-4c99ba56b107" "PS" %}})
 
 Vapnik, V. _The Nature of Statistical Learning Theory_. New York, NY: John Wiley & Sons, 1995. ISBN: 0387987800.
 
@@ -24,13 +24,13 @@ Devroye, L., L. Gyorfi, and G. Lugosi. _A Probabilistic Theory of Pattern Recogn
 
 Cristianini, N., and J. Shawe-Taylor. _Introduction To Support Vector Machines_. Cambridge, UK: Cambridge University Press, 2000. ISBN: 0521780195.
 
-Evgeniou, T., and M. Pontil, and T. Poggio. "Regularization Networks and Support Vector Machines." _Advances in Computational Mathematics_ 13, no. 1 (2000). ([PDF](http://cbcl.mit.edu/publications/ps/evgeniou-reviewall.pdf))
+Evgeniou, T., and M. Pontil, and T. Poggio. "Regularization Networks and Support Vector Machines." _Advances in Computational Mathematics_ 13, no. 1 (2000). ({{% resource_link "d1798afb-aad6-4dfd-8931-bdb95e1619da" "PDF" %}})
 
-Cucker, F., and S. Smale. "On The Mathematical Foundations of Learning." _Bulletin of the American Mathematical Society_ 39, no. 1 (2002). ([PS - 1.7 MB](https://www.ams.org/journals/bull/2002-39-01/S0273-0979-01-00923-5/S0273-0979-01-00923-5.pdf))
+Cucker, F., and S. Smale. "On The Mathematical Foundations of Learning." _Bulletin of the American Mathematical Society_ 39, no. 1 (2002). ({{% resource_link "02f79e7a-5192-4e6f-ac91-ce7fdb7ae980" "PS - 1.7 MB" %}})
 
-Poggio, T., and S. Smale. "The Mathematics of Learning: Dealing with Data." _Notices of the AMS_ 50, no. 5 (2003): 537-544. ([PDF](http://cbcl.mit.edu/publications/ps/notices-ams2003refs.pdf))
+Poggio, T., and S. Smale. "The Mathematics of Learning: Dealing with Data." _Notices of the AMS_ 50, no. 5 (2003): 537-544. ({{% resource_link "b65967af-6927-4601-95e1-172f43f356c0" "PDF" %}})
 
-Poggio, T., R. Rifkin, S. Mukherjee, and P. Niyogi. "General Conditions for Predictivity in Learning Theory." _Nature_ 428 (2004): 419-422. ([PDF](http://cbcl.mit.edu/publications/ps/nature-predictivity.pdf)) (See also Past Performance and Future Results). ([PDF](http://cbcl.mit.edu/news/files/news-views-march-04.pdf))
+Poggio, T., R. Rifkin, S. Mukherjee, and P. Niyogi. "General Conditions for Predictivity in Learning Theory." _Nature_ 428 (2004): 419-422. ({{% resource_link "388a68c6-af23-4eae-a81f-7a31e1ff78be" "PDF" %}}) (See also Past Performance and Future Results). ({{% resource_link "3b10c0b4-bd12-44d9-b107-64ab5739176b" "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
